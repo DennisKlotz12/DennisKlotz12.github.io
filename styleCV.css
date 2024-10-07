@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(0, 183, 255, 0.397);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pre {
+    text-align: center;
+}
+
+.obj {
+    text-align: left;
+}
+
+.comp { 
+    text-align: center,right;
+}
